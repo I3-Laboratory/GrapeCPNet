@@ -1,6 +1,8 @@
 # GrapeCPNet
 The dataset is used in the paper“GrapeCPNet: A deep learning integration for grape completion and phenotyping in 3D”
-# Data and Weights are avaible here:
+# Data and Weights are available here:
+Please fill out the form here to receive the download link
+
 GrapeCPNet dataset
 链接: https://pan.baidu.com/s/1AzFmJBgDtFuWYoWrn_vE3A?pwd=d7c3  
 提取码: d7c3  
